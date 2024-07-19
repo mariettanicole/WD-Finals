@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mariettanicole/">
-    <img src="./assets/img/LOGO.png" alt="Final Project" width="130" height="auto">
+    <img src="./assets/img/nyebe_white.png" alt="Final Project" width="130" height="auto">
   </a>
   <h3 align="center">Final Project</h3>
 </div>
