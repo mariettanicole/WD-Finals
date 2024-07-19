@@ -41,7 +41,7 @@
 
 ## Overview
 
-This project is a personal website created to showcase design skills and web development knowledge. The website includes multiple pages with distinct layouts, providing a comprehensive portfolio of projects, skills, and contact information.
+This project is a personal website created to showcase design skills and web development knowledge. The website includes multiple pages with distinct layouts, providing a comprehensive portfolio of projects, skills, and contact information..
 
 ### Guiding Questions
 - **What is the project?**
