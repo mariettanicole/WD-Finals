@@ -1,0 +1,133 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #333; /* Default text color */
+}
+
+header {
+    background-color: #ffd166; /* Pastel yellow */
+    padding: 1rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem;
+}
+
+header .logo img {
+    height: 50px;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    margin: 0 1rem;
+}
+
+header nav ul li a {
+    color: #333; /* Adjusted font color for better contrast */
+    text-decoration: none;
+    font-weight: 700;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #ffd166; /* Pastel yellow */
+    color: #333; /* Adjusted font color for better contrast */
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.hero {
+    background: linear-gradient(to right, #f9fbe7, #fff9c4); /* Pastel yellow gradient */
+    color: #333; /* Adjusted font color for better contrast */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5rem 1rem;
+    text-align: left;
+}
+
+.hero-content {
+    max-width: 50%;
+    margin-right: 2rem;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.hero p {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+}
+
+.cta {
+    background-color: #6a1b9a; /* Purple or another contrasting color */
+    color: #fff; /* White text for contrast */
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 0.5rem;
+}
+
+.cta:hover {
+    background-color: #4a148c; /* Darker shade on hover */
+}
+
+.hero-image {
+    max-width: 45%;
+}
+
+.hero-image img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+/* About Page Styles */
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5rem 1rem;
+    background-color: #f9fbe7; /* Light yellow background */
+    color: #333; /* Adjusted font color for better contrast */
+    text-align: left;
+}
+
+.about-content {
+    max-width: 50%;
+    margin-right: 2rem;
+}
+
+.about h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.about p {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.about-image {
+    max-width: 45%;
+}
+
+.about-image img {
+    width: 100%;
+    border-radius: 1rem;
+}
